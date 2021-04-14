@@ -70,6 +70,9 @@ gem 'bootstrap'
 gem 'bcrypt', '~> 3.1.7'
 gem 'rails_autolink'
 gem 'rspec-rails', '~> 3.7'
+gem 'ransack'
+gem 'mailcatcher'
+gem 'kaminari'
 
 
 
